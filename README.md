@@ -1,3 +1,3 @@
 # lucasfreitaslt.github.io
-<h1>ola eu sou o lucas</h1>
+<h1>ola meu nome e lucas</h1>
 👋
